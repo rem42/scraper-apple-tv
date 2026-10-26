@@ -1,0 +1,38 @@
+{
+  "name": "rem42/scraper-apple-tv",
+  "description": "Apple TV (tv.apple.com) Scraper: search, movies and shows of the Apple TV catalog",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "rem42",
+      "email": "me@remy.ovh",
+      "homepage": "https://remy.ovh"
+    }
+  ],
+  "require": {
+    "php": "^8.4",
+    "ext-json": "*",
+    "rem42/scraper": "^3.4"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^13.1",
+    "phpstan/phpstan": "^2.1",
+    "rem42/php-cs-fixer-config": "^4.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Scraper\\ScraperAppleTv\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Scraper\\ScraperAppleTv\\Tests\\": "tests/"
+    }
+  },
+  "scripts": {
+    "static-analysis": "./vendor/bin/phpstan analyse src --level=max --no-progress -vvv",
+    "code-style-check": "./vendor/bin/php-cs-fixer fix --dry-run --verbose",
+    "code-style-fix": "./vendor/bin/php-cs-fixer fix --using-cache=no",
+    "unit-test": "./vendor/bin/phpunit"
+  }
+}

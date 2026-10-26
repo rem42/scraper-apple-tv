@@ -1,0 +1,67 @@
+name: CI
+
+on:
+    - pull_request
+    - push
+    - workflow_dispatch
+
+jobs:
+    tests:
+        strategy:
+            fail-fast: false
+            matrix:
+                include:
+                    -   operating-system: 'ubuntu-latest'
+                        php-version: '8.4'
+                    -   operating-system: 'ubuntu-latest'
+                        php-version: '8.5'
+
+        name: PHP ${{ matrix.php-version }}
+
+        runs-on: ${{ matrix.operating-system }}
+
+        steps:
+            -   name: Checkout code
+                uses: actions/checkout@v6
+
+            -   name: Setup PHP
+                uses: shivammathur/setup-php@v2
+                with:
+                    php-version: ${{ matrix.php-version }}
+                    tools: flex
+                env:
+                    fail-fast: false # disabled as old PHP version cannot run flex
+
+            -   name: Get Composer cache directory
+                id: composer-cache
+                run: echo "::set-output name=dir::$(composer config cache-dir)"
+
+            -   name: Cache dependencies
+                uses: actions/cache@v3
+                with:
+                    path: ${{ steps.composer-cache.outputs.dir }}
+                    key: composer-${{ runner.os }}-${{ matrix.php-version }}-${{ hashFiles('**/composer.*') }}-${{ matrix.composer-flags }}
+                    restore-keys: |
+                        composer-${{ runner.os }}-${{ matrix.php-version }}-${{ hashFiles('**/composer.*') }}-
+                        composer-${{ runner.os }}-${{ matrix.php-version }}-
+                        composer-${{ runner.os }}-
+                        composer-
+            -   name: Install dependencies
+                uses: nick-invision/retry@v2
+                with:
+                    timeout_minutes: 5
+                    max_attempts: 5
+                    retry_wait_seconds: 30
+                    command: |
+                        composer update --optimize-autoloader --no-interaction --no-progress ${{ matrix.composer-flags }}
+                        composer info -D
+
+            -   name: Run PHP CS Fixer
+                run: ./vendor/bin/php-cs-fixer fix --dry-run --verbose
+
+            -   name: Run PHPSTAN
+                continue-on-error: true
+                run: ./vendor/bin/phpstan analyse src --level=max --no-progress -vvv
+
+            -   name: Run UNIT-TESTS
+                run: ./vendor/bin/phpunit

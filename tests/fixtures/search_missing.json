@@ -1,0 +1,204 @@
+{
+  "data": {
+    "canvas": {
+      "id": "uts.cvs.search",
+      "shelves": [
+        {
+          "id": "uts.col.search.TR",
+          "displayType": "cardLockup",
+          "header": {
+            "supportsSeeAllView": true,
+            "title": "Les plus populaires",
+            "url": "https://tv.apple.com/fr/shelf/les-plus-populaires/uts.col.search.TR?searchTerm=inception"
+          },
+          "items": [
+            {
+              "duration": 7620,
+              "genres": [
+                {
+                  "id": "umc.gnr.mov.thriller",
+                  "name": "Thriller",
+                  "type": "Genre",
+                  "url": "https://tv.apple.com/fr/genre/thriller/umc.gnr.mov.thriller"
+                }
+              ],
+              "id": "umc.cmc.26o403koqo2klixc0jtqy6tmc",
+              "images": {
+                "shelfImageBackground": {
+                  "height": 2160,
+                  "isP3": false,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/C87f9kbBZI4WQOUrh5uikQ/{w}x{h}.{f}",
+                  "width": 3840
+                },
+                "shelfItemImage": {
+                  "height": 3000,
+                  "isP3": false,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/Pjb1c3mgtHEb0TVLj3s5Lw/{w}x{h}CA.TVA23C01.{f}",
+                  "width": 2000
+                },
+                "transitionImage": {
+                  "height": 3240,
+                  "isP3": false,
+                  "isUber": true,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/V5FSw08pafw-rUA9Y_DREw/{w}x{h}sr.{f}",
+                  "width": 4320
+                }
+              },
+              "isAppleOriginal": true,
+              "localizedType": "Film",
+              "releaseDate": 1739491200000,
+              "title": "The Gorge",
+              "type": "Movie",
+              "url": "https://tv.apple.com/fr/movie/the-gorge/umc.cmc.26o403koqo2klixc0jtqy6tmc"
+            },
+            {
+              "duration": 7500,
+              "genres": [
+                {
+                  "id": "umc.gnr.mov.action",
+                  "name": "Action",
+                  "type": "Genre",
+                  "url": "https://tv.apple.com/fr/genre/action/umc.gnr.mov.action"
+                }
+              ],
+              "id": "umc.cmc.z5xrwbjg3gergiowhrzg61tq",
+              "images": {
+                "shelfImageBackground": {
+                  "height": 2160,
+                  "isP3": false,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/O2COyR-7zVBE3TWk5dJ_3A/{w}x{h}.{f}",
+                  "width": 3840
+                },
+                "shelfItemImage": {
+                  "height": 3000,
+                  "isP3": false,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/FKmcjPyJLsuGLMXy8lx5Jg/{w}x{h}CA.TVA23C01.{f}",
+                  "width": 2000
+                },
+                "transitionImage": {
+                  "height": 3240,
+                  "isP3": false,
+                  "isUber": true,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/mIZ9Olqw6ilgld1G0fbGLw/{w}x{h}sr.{f}",
+                  "width": 4320
+                }
+              },
+              "isAppleOriginal": true,
+              "localizedType": "Film",
+              "releaseDate": 1747958400000,
+              "title": "Fountain of Youth",
+              "type": "Movie",
+              "url": "https://tv.apple.com/fr/movie/fountain-of-youth/umc.cmc.z5xrwbjg3gergiowhrzg61tq"
+            }
+          ]
+        },
+        {
+          "id": "uts.col.search.MV",
+          "displayType": "lockup",
+          "header": {
+            "supportsSeeAllView": true,
+            "title": "Films",
+            "url": "https://tv.apple.com/fr/shelf/films/uts.col.search.MV?searchTerm=inception"
+          },
+          "items": [
+            {
+              "duration": 7620,
+              "genres": [
+                {
+                  "id": "umc.gnr.mov.thriller",
+                  "name": "Thriller",
+                  "type": "Genre",
+                  "url": "https://tv.apple.com/fr/genre/thriller/umc.gnr.mov.thriller"
+                }
+              ],
+              "id": "umc.cmc.26o403koqo2klixc0jtqy6tmc",
+              "images": {
+                "shelfImageBackground": {
+                  "height": 2160,
+                  "isP3": false,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/C87f9kbBZI4WQOUrh5uikQ/{w}x{h}.{f}",
+                  "width": 3840
+                },
+                "shelfItemImage": {
+                  "height": 3000,
+                  "isP3": false,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/Pjb1c3mgtHEb0TVLj3s5Lw/{w}x{h}CA.TVA23C01.{f}",
+                  "width": 2000
+                },
+                "transitionImage": {
+                  "height": 3240,
+                  "isP3": false,
+                  "isUber": true,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/V5FSw08pafw-rUA9Y_DREw/{w}x{h}sr.{f}",
+                  "width": 4320
+                }
+              },
+              "isAppleOriginal": true,
+              "localizedType": "Film",
+              "releaseDate": 1739491200000,
+              "title": "The Gorge",
+              "type": "Movie",
+              "url": "https://tv.apple.com/fr/movie/the-gorge/umc.cmc.26o403koqo2klixc0jtqy6tmc"
+            },
+            {
+              "duration": 7500,
+              "genres": [
+                {
+                  "id": "umc.gnr.mov.action",
+                  "name": "Action",
+                  "type": "Genre",
+                  "url": "https://tv.apple.com/fr/genre/action/umc.gnr.mov.action"
+                }
+              ],
+              "id": "umc.cmc.z5xrwbjg3gergiowhrzg61tq",
+              "images": {
+                "shelfImageBackground": {
+                  "height": 2160,
+                  "isP3": false,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/O2COyR-7zVBE3TWk5dJ_3A/{w}x{h}.{f}",
+                  "width": 3840
+                },
+                "shelfItemImage": {
+                  "height": 3000,
+                  "isP3": false,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/FKmcjPyJLsuGLMXy8lx5Jg/{w}x{h}CA.TVA23C01.{f}",
+                  "width": 2000
+                },
+                "transitionImage": {
+                  "height": 3240,
+                  "isP3": false,
+                  "isUber": true,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/mIZ9Olqw6ilgld1G0fbGLw/{w}x{h}sr.{f}",
+                  "width": 4320
+                }
+              },
+              "isAppleOriginal": true,
+              "localizedType": "Film",
+              "releaseDate": 1747958400000,
+              "title": "Fountain of Youth",
+              "type": "Movie",
+              "url": "https://tv.apple.com/fr/movie/fountain-of-youth/umc.cmc.z5xrwbjg3gergiowhrzg61tq"
+            }
+          ]
+        }
+      ]
+    },
+    "isMissingContent": true,
+    "searchTerm": "inception",
+    "searchTermDescription": {
+      "displayText": "Inception n’est pas disponible. Vous aimerez peut‑être aussi :"
+    }
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "canvas": {
+      "id": "uts.cvs.search",
+      "shelves": [
+        {
+          "id": "uts.col.search.TR",
+          "displayType": "cardLockup",
+          "header": {
+            "supportsSeeAllView": true,
+            "title": "Les plus populaires",
+            "url": "https://tv.apple.com/fr/shelf/les-plus-populaires/uts.col.search.TR?searchTerm=severance"
+          },
+          "items": [
+            {
+              "genres": [
+                {
+                  "id": "umc.gnr.tv.thriller",
+                  "name": "Thriller",
+                  "type": "Genre",
+                  "url": "https://tv.apple.com/fr/genre/thriller/umc.gnr.tv.thriller"
+                }
+              ],
+              "id": "umc.cmc.1srk2goyh2q2zdxcx605w8vtx",
+              "images": {
+                "shelfImageBackground": {
+                  "height": 2160,
+                  "isP3": false,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/R8-NyavUNgWqAfUoUtUjNA/{w}x{h}.{f}",
+                  "width": 3840
+                },
+                "shelfItemImage": {
+                  "height": 3000,
+                  "isP3": false,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/4OgSLb2-5qZ_yXAUvc8Kug/{w}x{h}CA.TVA23C01.{f}",
+                  "width": 2000
+                },
+                "transitionImage": {
+                  "height": 3240,
+                  "isP3": false,
+                  "isUber": true,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/a9WqFxCK0E8WqRZiQEnT0g/{w}x{h}sr.{f}",
+                  "width": 4320
+                }
+              },
+              "isAppleOriginal": true,
+              "localizedType": "Série TV",
+              "releaseDate": 1645142400000,
+              "title": "Severance",
+              "type": "Show",
+              "url": "https://tv.apple.com/fr/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx"
+            },
+            {
+              "genres": [
+                {
+                  "id": "umc.gnr.tv.drama",
+                  "name": "Drame",
+                  "type": "Genre",
+                  "url": "https://tv.apple.com/fr/genre/drame/umc.gnr.tv.drama"
+                }
+              ],
+              "id": "umc.cmc.37axgovs2yozlyh3c2cmwzlza",
+              "images": {
+                "shelfImageBackground": {
+                  "height": 2160,
+                  "isP3": false,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/tYG0_nlqbc8Z4qTQ5yUFyg/{w}x{h}.{f}",
+                  "width": 3840
+                },
+                "shelfItemImage": {
+                  "height": 3000,
+                  "isP3": false,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/40JBhZHEKxrCX2RaixIHYg/{w}x{h}CA.TVA23C01.{f}",
+                  "width": 2000
+                },
+                "transitionImage": {
+                  "height": 3240,
+                  "isP3": false,
+                  "isUber": true,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/RLvGZLuWv_m-qxwAsRXG3A/{w}x{h}sr.{f}",
+                  "width": 4320
+                }
+              },
+              "isAppleOriginal": true,
+              "localizedType": "Série TV",
+              "releaseDate": 1762473600000,
+              "title": "Pluribus",
+              "type": "Show",
+              "url": "https://tv.apple.com/fr/show/pluribus/umc.cmc.37axgovs2yozlyh3c2cmwzlza"
+            },
+            {
+              "genres": [
+                {
+                  "id": "umc.gnr.tv.scifi",
+                  "name": "Science-fiction",
+                  "type": "Genre",
+                  "url": "https://tv.apple.com/fr/genre/science-fiction/umc.gnr.tv.scifi"
+                }
+              ],
+              "id": "umc.cmc.3yksgc857px0k0rqe5zd4jice",
+              "images": {
+                "shelfImageBackground": {
+                  "height": 2160,
+                  "isP3": false,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/qLifFjwEXYp71Q_6RGCGvQ/{w}x{h}.{f}",
+                  "width": 3840
+                },
+                "shelfItemImage": {
+                  "height": 3000,
+                  "isP3": false,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/InQeTqxGC9Vuaf3OZequpw/{w}x{h}CA.TVA23C01.{f}",
+                  "width": 2000
+                },
+                "transitionImage": {
+                  "height": 3240,
+                  "isP3": false,
+                  "isUber": true,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/3sjUp5_ZXFR-L7btfWaH3Q/{w}x{h}sr.{f}",
+                  "width": 4320
+                }
+              },
+              "isAppleOriginal": true,
+              "localizedType": "Série TV",
+              "releaseDate": 1683244800000,
+              "title": "Silo",
+              "type": "Show",
+              "url": "https://tv.apple.com/fr/show/silo/umc.cmc.3yksgc857px0k0rqe5zd4jice"
+            }
+          ]
+        },
+        {
+          "id": "uts.col.search.SH",
+          "displayType": "lockup",
+          "header": {
+            "supportsSeeAllView": true,
+            "title": "TV et séries",
+            "url": "https://tv.apple.com/fr/shelf/tv-et-series/uts.col.search.SH?searchTerm=severance"
+          },
+          "items": [
+            {
+              "genres": [
+                {
+                  "id": "umc.gnr.tv.thriller",
+                  "name": "Thriller",
+                  "type": "Genre",
+                  "url": "https://tv.apple.com/fr/genre/thriller/umc.gnr.tv.thriller"
+                }
+              ],
+              "id": "umc.cmc.1srk2goyh2q2zdxcx605w8vtx",
+              "images": {
+                "shelfImageBackground": {
+                  "height": 2160,
+                  "isP3": false,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/R8-NyavUNgWqAfUoUtUjNA/{w}x{h}.{f}",
+                  "width": 3840
+                },
+                "shelfItemImage": {
+                  "height": 3000,
+                  "isP3": false,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/4OgSLb2-5qZ_yXAUvc8Kug/{w}x{h}CA.TVA23C01.{f}",
+                  "width": 2000
+                },
+                "transitionImage": {
+                  "height": 3240,
+                  "isP3": false,
+                  "isUber": true,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/a9WqFxCK0E8WqRZiQEnT0g/{w}x{h}sr.{f}",
+                  "width": 4320
+                }
+              },
+              "isAppleOriginal": true,
+              "localizedType": "Série TV",
+              "releaseDate": 1645142400000,
+              "title": "Severance",
+              "type": "Show",
+              "url": "https://tv.apple.com/fr/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx"
+            },
+            {
+              "genres": [
+                {
+                  "id": "umc.gnr.tv.drama",
+                  "name": "Drame",
+                  "type": "Genre",
+                  "url": "https://tv.apple.com/fr/genre/drame/umc.gnr.tv.drama"
+                }
+              ],
+              "id": "umc.cmc.37axgovs2yozlyh3c2cmwzlza",
+              "images": {
+                "shelfImageBackground": {
+                  "height": 2160,
+                  "isP3": false,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/tYG0_nlqbc8Z4qTQ5yUFyg/{w}x{h}.{f}",
+                  "width": 3840
+                },
+                "shelfItemImage": {
+                  "height": 3000,
+                  "isP3": false,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/40JBhZHEKxrCX2RaixIHYg/{w}x{h}CA.TVA23C01.{f}",
+                  "width": 2000
+                },
+                "transitionImage": {
+                  "height": 3240,
+                  "isP3": false,
+                  "isUber": true,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/RLvGZLuWv_m-qxwAsRXG3A/{w}x{h}sr.{f}",
+                  "width": 4320
+                }
+              },
+              "isAppleOriginal": true,
+              "localizedType": "Série TV",
+              "releaseDate": 1762473600000,
+              "title": "Pluribus",
+              "type": "Show",
+              "url": "https://tv.apple.com/fr/show/pluribus/umc.cmc.37axgovs2yozlyh3c2cmwzlza"
+            },
+            {
+              "genres": [
+                {
+                  "id": "umc.gnr.tv.scifi",
+                  "name": "Science-fiction",
+                  "type": "Genre",
+                  "url": "https://tv.apple.com/fr/genre/science-fiction/umc.gnr.tv.scifi"
+                }
+              ],
+              "id": "umc.cmc.3yksgc857px0k0rqe5zd4jice",
+              "images": {
+                "shelfImageBackground": {
+                  "height": 2160,
+                  "isP3": false,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/qLifFjwEXYp71Q_6RGCGvQ/{w}x{h}.{f}",
+                  "width": 3840
+                },
+                "shelfItemImage": {
+                  "height": 3000,
+                  "isP3": false,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/InQeTqxGC9Vuaf3OZequpw/{w}x{h}CA.TVA23C01.{f}",
+                  "width": 2000
+                },
+                "transitionImage": {
+                  "height": 3240,
+                  "isP3": false,
+                  "isUber": true,
+                  "supportsLayeredImage": false,
+                  "url": "https://is1-ssl.mzstatic.com/image/thumb/3sjUp5_ZXFR-L7btfWaH3Q/{w}x{h}sr.{f}",
+                  "width": 4320
+                }
+              },
+              "isAppleOriginal": true,
+              "localizedType": "Série TV",
+              "releaseDate": 1683244800000,
+              "title": "Silo",
+              "type": "Show",
+              "url": "https://tv.apple.com/fr/show/silo/umc.cmc.3yksgc857px0k0rqe5zd4jice"
+            }
+          ]
+        }
+      ]
+    },
+    "searchTerm": "severance"
+  }
+}

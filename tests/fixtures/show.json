@@ -1,0 +1,212 @@
+{
+  "data": {
+    "badges": {
+      "audioTrackFormat": "DolbyAtmos",
+      "hasAd": true,
+      "hasAudioDescriptions": true,
+      "hasClosedCaptions": true,
+      "hasSdh": true,
+      "hasSubtitles": true,
+      "videoColorRange": "DolbyVisionHDR",
+      "videoQuality": "UHD"
+    },
+    "content": {
+      "contentAdvisoryDetails": [
+        {
+          "description": "Langage grossier",
+          "label": "L"
+        },
+        {
+          "description": "Drogues ou consommation de drogues",
+          "label": "D"
+        },
+        {
+          "description": "Nudité",
+          "label": "N"
+        },
+        {
+          "description": "Horreur",
+          "label": "H"
+        },
+        {
+          "description": "Contenu à caractère sexuel",
+          "label": "SC"
+        },
+        {
+          "description": "Violence",
+          "label": "V"
+        },
+        {
+          "description": "Comportement imitable",
+          "label": "B"
+        }
+      ],
+      "countriesOfOrigin": [
+        {
+          "countryCode": "US",
+          "displayName": "États-Unis"
+        }
+      ],
+      "description": "Mark dirige une équipe d'employés de bureau dont les souvenirs ont été scindés chirurgicalement en fonction de leur vie professionnelle et de leur vie privée. L'irruption d'un mystérieux collègue en dehors du bureau enclenche une longue quête de vérité sur leur travail.",
+      "genres": [
+        {
+          "id": "umc.gnr.tv.thriller",
+          "name": "Thriller",
+          "type": "Genre",
+          "url": "https://tv.apple.com/fr/genre/thriller/umc.gnr.tv.thriller"
+        },
+        {
+          "id": "umc.gnr.tv.mystery",
+          "name": "Suspense",
+          "type": "Genre",
+          "url": "https://tv.apple.com/fr/genre/suspense/umc.gnr.tv.mystery"
+        },
+        {
+          "id": "umc.gnr.tv.drama",
+          "name": "Drame",
+          "type": "Genre",
+          "url": "https://tv.apple.com/fr/genre/drame/umc.gnr.tv.drama"
+        }
+      ],
+      "heroDescription": "Ne passez pas à côté de cette incroyable série au succès planétaire.",
+      "id": "umc.cmc.1srk2goyh2q2zdxcx605w8vtx",
+      "images": {
+        "contentImage": {
+          "height": 3240,
+          "isP3": false,
+          "supportsLayeredImage": false,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/sWbO9RKGr81f6-iTFF9d4g/{w}x{h}sr.{f}",
+          "width": 4320
+        },
+        "contentImage16X9": {
+          "height": 2160,
+          "isP3": false,
+          "supportsLayeredImage": false,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/yLaIuyo68a7gtcjngkHQiQ/{w}x{h}.{f}",
+          "width": 3840
+        },
+        "contentImageTall": {
+          "height": 3636,
+          "supportsLayeredImage": false,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/_705uGqVmFkkNIXfLCXHRw/{w}x{h}nr.{f}",
+          "width": 1680
+        },
+        "contentLogo": {
+          "height": 1176,
+          "isP3": false,
+          "supportsLayeredImage": false,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/l9HZvLGoIYC_wGWFjIniIA/{w}x{h}.{f}",
+          "width": 7095
+        },
+        "posterArt": {
+          "height": 3000,
+          "isP3": false,
+          "supportsLayeredImage": false,
+          "url": "https://is1-ssl.mzstatic.com/image/thumb/4OgSLb2-5qZ_yXAUvc8Kug/{w}x{h}CA.TVA23C01.{f}",
+          "width": 2000
+        }
+      },
+      "isAppleOriginal": true,
+      "originalSpokenLanguages": [
+        {
+          "displayName": "Anglais",
+          "locale": "en"
+        }
+      ],
+      "rating": {
+        "displayName": "-12",
+        "name": "FR_TV__12",
+        "system": "fr_tv",
+        "systemType": "tv",
+        "value": 200
+      },
+      "releaseDate": 1645142400000,
+      "rolesSummary": {
+        "cast": [
+          "Adam Scott",
+          "Britt Lower",
+          "Patricia Arquette"
+        ]
+      },
+      "title": "Severance",
+      "type": "Show",
+      "url": "https://tv.apple.com/fr/show/severance/umc.cmc.1srk2goyh2q2zdxcx605w8vtx"
+    },
+    "seasons": {
+      "umc.cmc.vhs3hc5o2mfl9vbyxf2y5tiy": {
+        "countriesOfOrigin": [
+          {
+            "countryCode": "US",
+            "displayName": "États-Unis"
+          }
+        ],
+        "id": "umc.cmc.vhs3hc5o2mfl9vbyxf2y5tiy",
+        "images": {
+          "contentImage": {
+            "height": 3000,
+            "isP3": false,
+            "supportsLayeredImage": false,
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/je_wcJCCaR8hr45bqbaxGw/{w}x{h}CA.TVA23C01.{f}",
+            "width": 2000
+          },
+          "contentImageTall": {
+            "height": 3000,
+            "supportsLayeredImage": true,
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/0xo2EYXgRYmb3lAs6mTH_A/{w}x{h}.{f}",
+            "width": 3000
+          }
+        },
+        "originalSpokenLanguages": [
+          {
+            "displayName": "Anglais",
+            "locale": "en"
+          }
+        ],
+        "releaseDate": 1645142400000,
+        "seasonNumber": 1,
+        "showId": "umc.cmc.1srk2goyh2q2zdxcx605w8vtx",
+        "showTitle": "Severance",
+        "title": "Season 1",
+        "type": "Season",
+        "url": "https://tv.apple.com/fr/season/season-1/umc.cmc.vhs3hc5o2mfl9vbyxf2y5tiy?showId=umc.cmc.1srk2goyh2q2zdxcx605w8vtx"
+      },
+      "umc.cmc.uhm560ns0yg3a5fy454bb967": {
+        "countriesOfOrigin": [
+          {
+            "countryCode": "US",
+            "displayName": "États-Unis"
+          }
+        ],
+        "id": "umc.cmc.uhm560ns0yg3a5fy454bb967",
+        "images": {
+          "contentImage": {
+            "height": 3000,
+            "isP3": false,
+            "supportsLayeredImage": false,
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/riGjghvVxqtl03XUkNhhRQ/{w}x{h}CA.TVA23C01.{f}",
+            "width": 2000
+          },
+          "contentImageTall": {
+            "height": 3636,
+            "supportsLayeredImage": false,
+            "url": "https://is1-ssl.mzstatic.com/image/thumb/_705uGqVmFkkNIXfLCXHRw/{w}x{h}{c}.{f}",
+            "width": 1680
+          }
+        },
+        "originalSpokenLanguages": [
+          {
+            "displayName": "Anglais",
+            "locale": "en"
+          }
+        ],
+        "releaseDate": 1737072000000,
+        "seasonNumber": 2,
+        "showId": "umc.cmc.1srk2goyh2q2zdxcx605w8vtx",
+        "showTitle": "Severance",
+        "title": "Season 2",
+        "type": "Season",
+        "url": "https://tv.apple.com/fr/season/season-2/umc.cmc.uhm560ns0yg3a5fy454bb967?showId=umc.cmc.1srk2goyh2q2zdxcx605w8vtx"
+      }
+    }
+  }
+}
